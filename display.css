@@ -1,0 +1,26 @@
+.block{
+    background-color: blueviolet;
+    padding: 20px;
+    border: 2px solid violet;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.inline{
+    background-color: cornflowerblue;
+    display: inline;
+}
+.inline-block{
+    background-color: darkgreen;
+    padding: 20px;
+    border: 2px solid green;
+    width: 60px;
+    display: inline-block;
+}
+.flex{
+    background-color: hotpink;
+    padding: 20px;
+    border: 2px solid pink;
+    width: 60px;
+    display: flex;
+}
