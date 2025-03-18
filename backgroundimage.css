@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://cdn.shopify.com/s/files/1/0416/8083/0620/files/01132022_soc_pinterestboardcoverupdate_KU_1200x1200_1_1024x1024.png?v=1664470975);
+    background-repeat: no-repeat;
+}
+.block{
+    background-color: hotpink;
+    padding: 25px;
+    border: 2px solid black;
+    margin-bottom: 10px ;
+    display: block;
+}
+
+.inline{
+    background-color: lightslategrey;
+    display: inline;
+}
+
+.inline-block{
+    background-color: violet;
+    padding: 20px;
+    border: 2px solid black;
+    width: 10px;
+    display: inline-block;
+}
+
+.flex{
+    background-color: darkgray;
+    padding: 20px;
+    border: 2px solid black;
+    width: 10px;
+    display: flex;
+}
