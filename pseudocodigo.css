@@ -1,0 +1,22 @@
+button{
+    background-color: darkblue;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(136, 8, 8);
+    color: white;
+    cursor: pointer;
+}
+
+a{
+    font-size: 30px; 
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+    width: 30px;
+    font-size: 30px;
+}
