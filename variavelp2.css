@@ -1,0 +1,6 @@
+@import url('variaveis.css');
+
+
+h4{
+    background-color: var(--vermelho);
+}
